@@ -52,6 +52,12 @@ body
     padding: 1em;
 }
 
+#post #img-logo
+{
+    margin:10px auto 10px;
+    display: block;
+}
+
 #footer
 {
     background: #777;
