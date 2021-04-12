@@ -12,6 +12,7 @@ Un blog de practica para [el curso de Git y GitHub](https://platzi.com/cursos/gi
 + Tips y trucos fenomenales, útiles e interesantes
 + Creado por el increible Platzi Team
 + Incluye ejemplos en Windows, Linux y Mac
++ Disponible para todas la edades y generos 
 
   
 A culminar el curso para seguir con el de **JavaScript y Python...** 
