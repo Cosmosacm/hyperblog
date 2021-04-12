@@ -10,6 +10,7 @@ Un blog de practica para [el curso de Git y GitHub](https://platzi.com/cursos/gi
 + El flujo de trabajo en GitHub
 + Muy buenas practicas
 + Tips y trucos fenomenales, útiles e interesantes
++ Creado por el increible Platzi Team
 
   
 A culminar el curso para seguir con el de **JavaScript y Python...** 
